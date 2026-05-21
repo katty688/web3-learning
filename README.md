@@ -8,3 +8,9 @@ Just testing some blockchain scripts and wallet interactions.
 - ethers.js
 
 More updates soon.
+
+Day 1
+- initial commit
+- add package json
+- trying api request
+- fix syntax error

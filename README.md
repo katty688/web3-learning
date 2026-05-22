@@ -14,3 +14,6 @@ Day 1
 - add package json
 - trying api request
 - fix syntax error
+
+Day 2
+- Studying oracle feeds

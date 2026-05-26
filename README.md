@@ -18,3 +18,4 @@ Day 1
 Day 2
 - Studying oracle feeds
 - Reviewing blockchain growth
+- Updating notes

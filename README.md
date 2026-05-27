@@ -19,3 +19,4 @@ Day 2
 - Studying oracle feeds
 - Reviewing blockchain growth
 - Updating notes
+- Improving structure

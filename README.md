@@ -20,3 +20,4 @@ Day 2
 - Reviewing blockchain growth
 - Updating notes
 - Improving structure
+- Updating summaries

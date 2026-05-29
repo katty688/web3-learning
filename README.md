@@ -9,15 +9,18 @@ Just testing some blockchain scripts and wallet interactions.
 
 More updates soon.
 
-Day 1
+First
 - initial commit
 - add package json
 - trying api request
 - fix syntax error
 
-Day 2
+Second
 - Studying oracle feeds
 - Reviewing blockchain growth
 - Updating notes
 - Improving structure
 - Updating summaries
+
+Third
+- Updating roadmap

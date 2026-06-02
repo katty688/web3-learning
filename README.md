@@ -25,3 +25,4 @@ Second
 Third
 - Updating roadmap
 - Exploring staking
+- Learning indexing

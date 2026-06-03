@@ -26,3 +26,4 @@ Third
 - Updating roadmap
 - Exploring staking
 - Learning indexing
+- Reviewing audits again

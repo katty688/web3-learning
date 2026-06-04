@@ -28,3 +28,4 @@ Third
 - Learning indexing
 - Reviewing audits again
 - Studying consensus
+- Exploring backend ideas

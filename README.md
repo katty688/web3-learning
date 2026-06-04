@@ -27,3 +27,4 @@ Third
 - Exploring staking
 - Learning indexing
 - Reviewing audits again
+- Studying consensus

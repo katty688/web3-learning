@@ -29,3 +29,4 @@ Third
 - Reviewing audits again
 - Studying consensus
 - Exploring backend ideas
+- Exploring zk scaling

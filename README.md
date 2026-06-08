@@ -30,3 +30,4 @@ Third
 - Studying consensus
 - Exploring backend ideas
 - Exploring zk scaling
+- Refining structure

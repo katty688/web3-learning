@@ -31,3 +31,4 @@ Third
 - Exploring backend ideas
 - Exploring zk scaling
 - Refining structure
+- Adding summaries

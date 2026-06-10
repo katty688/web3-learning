@@ -32,3 +32,4 @@ Third
 - Exploring zk scaling
 - Refining structure
 - Adding summaries
+- Adding insights

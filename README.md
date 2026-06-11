@@ -33,3 +33,4 @@ Third
 - Refining structure
 - Adding summaries
 - Adding insights
+- Refining formatting

@@ -36,3 +36,4 @@ Third
 - Refining formatting
 - Refining structure
 - Updating summaries
+- Exploring the Base ecosystem.

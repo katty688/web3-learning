@@ -37,3 +37,4 @@ Third
 - Refining structure
 - Updating summaries
 - Exploring the Base ecosystem.
+- Studying Solidity basics.

@@ -38,3 +38,4 @@ Third
 - Updating summaries
 - Exploring the Base ecosystem.
 - Studying Solidity basics.
+- Practicing small incremental updates.

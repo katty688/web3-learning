@@ -39,3 +39,4 @@ Third
 - Exploring the Base ecosystem.
 - Studying Solidity basics.
 - Practicing small incremental updates.
+- Tracking Web3 progress daily.

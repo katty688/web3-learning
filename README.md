@@ -40,3 +40,4 @@ Third
 - Studying Solidity basics.
 - Practicing small incremental updates.
 - Tracking Web3 progress daily.
+- Exploring decentralized governance concepts.

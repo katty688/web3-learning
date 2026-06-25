@@ -42,3 +42,4 @@ Third
 - Tracking Web3 progress daily.
 - Exploring decentralized governance concepts.
 - Researching smart contract deployment flow.
+- Refining project description.

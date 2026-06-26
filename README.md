@@ -43,3 +43,4 @@ Third
 - Exploring decentralized governance concepts.
 - Researching smart contract deployment flow.
 - Refining project description.
+- Learning about tokenomics design.

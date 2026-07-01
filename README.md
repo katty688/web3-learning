@@ -46,3 +46,6 @@ Third
 - Learning about tokenomics design.
 - Learning about network nodes.
 - Exploring developer tooling options.
+
+July
+- Improving understanding of decentralized storage.

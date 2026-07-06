@@ -51,3 +51,4 @@ July
 - Improving understanding of decentralized storage.
 - Adding more structured development logs.
 - Learning about zero knowledge proofs basics.
+- Improving documentation readability again.

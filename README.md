@@ -52,3 +52,4 @@ July
 - Adding more structured development logs.
 - Learning about zero knowledge proofs basics.
 - Improving documentation readability again.
+- Researching decentralized identity systems.

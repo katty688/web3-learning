@@ -54,3 +54,4 @@ July
 - Improving documentation readability again.
 - Researching decentralized identity systems.
 - Exploring security audit case studies.
+- Exploring governance voting mechanisms.

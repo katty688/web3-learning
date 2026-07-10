@@ -55,3 +55,4 @@ July
 - Researching decentralized identity systems.
 - Exploring security audit case studies.
 - Exploring governance voting mechanisms.
+- Researching Web3 developer communities.

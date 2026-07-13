@@ -56,3 +56,4 @@ July
 - Exploring security audit case studies.
 - Exploring governance voting mechanisms.
 - Researching Web3 developer communities.
+- Learning about event listeners in smart contracts.

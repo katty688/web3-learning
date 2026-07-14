@@ -9,20 +9,20 @@ Just testing some blockchain scripts and wallet interactions.
 
 More updates soon.
 
-First
+# First
 - initial commit
 - add package json
 - trying api request
 - fix syntax error
 
-Second
+# Second
 - Studying oracle feeds
 - Reviewing blockchain growth
 - Updating notes
 - Improving structure
 - Updating summaries
 
-Third
+# Third
 - Updating roadmap
 - Exploring staking
 - Learning indexing
@@ -47,7 +47,7 @@ Third
 - Learning about network nodes.
 - Exploring developer tooling options.
 
-July
+# July
 - Improving understanding of decentralized storage.
 - Adding more structured development logs.
 - Learning about zero knowledge proofs basics.
@@ -57,3 +57,4 @@ July
 - Exploring governance voting mechanisms.
 - Researching Web3 developer communities.
 - Learning about event listeners in smart contracts.
+- Studying wallet signature flows.

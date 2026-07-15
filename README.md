@@ -58,3 +58,4 @@ More updates soon.
 - Researching Web3 developer communities.
 - Learning about event listeners in smart contracts.
 - Studying wallet signature flows.
+- Exploring decentralized finance innovations.

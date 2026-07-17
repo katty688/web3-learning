@@ -60,3 +60,4 @@ More updates soon.
 - Studying wallet signature flows.
 - Exploring decentralized finance innovations.
 - Exploring blockchain analytics tools.
+- Continuing to build and document my Web3 journey.

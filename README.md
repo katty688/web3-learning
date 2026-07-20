@@ -61,3 +61,4 @@ More updates soon.
 - Exploring decentralized finance innovations.
 - Exploring blockchain analytics tools.
 - Continuing to build and document my Web3 journey.
+- Organizing project structure properly.

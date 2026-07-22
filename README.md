@@ -63,3 +63,4 @@ More updates soon.
 - Continuing to build and document my Web3 journey.
 - Organizing project structure properly.
 - Improving documentation clarity.
+- Researching DeFi protocols.

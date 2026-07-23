@@ -64,3 +64,4 @@ More updates soon.
 - Organizing project structure properly.
 - Improving documentation clarity.
 - Researching DeFi protocols.
+- Exploring testnet environments.

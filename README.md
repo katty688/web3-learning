@@ -65,3 +65,4 @@ More updates soon.
 - Improving documentation clarity.
 - Researching DeFi protocols.
 - Exploring testnet environments.
+- Learning about DAO structures.

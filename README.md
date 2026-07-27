@@ -66,3 +66,4 @@ More updates soon.
 - Researching DeFi protocols.
 - Exploring testnet environments.
 - Learning about DAO structures.
+- Studying gas fee mechanisms.

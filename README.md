@@ -67,3 +67,4 @@ More updates soon.
 - Exploring testnet environments.
 - Learning about DAO structures.
 - Studying gas fee mechanisms.
+- Reviewing secure coding practices.

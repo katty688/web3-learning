@@ -68,3 +68,4 @@ More updates soon.
 - Learning about DAO structures.
 - Studying gas fee mechanisms.
 - Reviewing secure coding practices.
+- Studying liquidity mechanisms.

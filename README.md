@@ -69,3 +69,4 @@ More updates soon.
 - Studying gas fee mechanisms.
 - Reviewing secure coding practices.
 - Studying liquidity mechanisms.
+- Reviewing distributed systems basics.

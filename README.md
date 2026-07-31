@@ -70,3 +70,4 @@ More updates soon.
 - Reviewing secure coding practices.
 - Studying liquidity mechanisms.
 - Reviewing distributed systems basics.
+- Improving structured thinking in development.

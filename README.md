@@ -71,3 +71,6 @@ More updates soon.
 - Studying liquidity mechanisms.
 - Reviewing distributed systems basics.
 - Improving structured thinking in development.
+
+# August 
+- Learning how smart contracts interact with frontends.

@@ -74,3 +74,4 @@ More updates soon.
 
 # August 
 - Learning how smart contracts interact with frontends.
+- Learning about Merkle trees.

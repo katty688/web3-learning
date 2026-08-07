@@ -77,3 +77,4 @@ More updates soon.
 - Learning about Merkle trees.
 - Studying transaction mempool behavior.
 - Studying backend and blockchain interaction.
+- Learning about transaction batching.

@@ -78,3 +78,4 @@ More updates soon.
 - Studying transaction mempool behavior.
 - Studying backend and blockchain interaction.
 - Learning about transaction batching.
+- Learning about lending protocols.

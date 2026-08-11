@@ -79,3 +79,4 @@ More updates soon.
 - Studying backend and blockchain interaction.
 - Learning about transaction batching.
 - Learning about lending protocols.
+- Learning about frontend wallet connectors.

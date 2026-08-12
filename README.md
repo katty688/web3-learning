@@ -80,3 +80,4 @@ More updates soon.
 - Learning about transaction batching.
 - Learning about lending protocols.
 - Learning about frontend wallet connectors.
+- Adding more incremental documentation updates.

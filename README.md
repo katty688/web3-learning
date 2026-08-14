@@ -82,3 +82,4 @@ More updates soon.
 - Learning about frontend wallet connectors.
 - Adding more incremental documentation updates.
 - Exploring dev tools
+- Learning smart contract flow

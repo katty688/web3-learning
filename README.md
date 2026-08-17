@@ -83,3 +83,4 @@ More updates soon.
 - Adding more incremental documentation updates.
 - Exploring dev tools
 - Learning smart contract flow
+- Studying decentralized storage

@@ -84,3 +84,4 @@ More updates soon.
 - Exploring dev tools
 - Learning smart contract flow
 - Studying decentralized storage
+- Exploring Layer1 vs Layer2

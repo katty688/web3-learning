@@ -85,3 +85,4 @@ More updates soon.
 - Learning smart contract flow
 - Studying decentralized storage
 - Exploring Layer1 vs Layer2
+- Exploring blockchain analytics

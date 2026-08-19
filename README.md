@@ -86,3 +86,4 @@ More updates soon.
 - Studying decentralized storage
 - Exploring Layer1 vs Layer2
 - Exploring blockchain analytics
+- Continuing Web3 journey

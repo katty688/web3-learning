@@ -87,3 +87,4 @@ More updates soon.
 - Exploring Layer1 vs Layer2
 - Exploring blockchain analytics
 - Continuing Web3 journey
+- Studying DAO treasury

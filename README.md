@@ -88,3 +88,4 @@ More updates soon.
 - Exploring blockchain analytics
 - Continuing Web3 journey
 - Studying DAO treasury
+- Reviewing transaction flow

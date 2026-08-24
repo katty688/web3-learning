@@ -89,3 +89,4 @@ More updates soon.
 - Continuing Web3 journey
 - Studying DAO treasury
 - Reviewing transaction flow
+- Studying lending systems

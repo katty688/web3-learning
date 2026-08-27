@@ -91,3 +91,4 @@ More updates soon.
 - Reviewing transaction flow
 - Studying lending systems
 - Studying lending systems
+- Reviewing networks

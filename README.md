@@ -92,3 +92,4 @@ More updates soon.
 - Studying lending systems
 - Studying lending systems
 - Reviewing networks
+- Tracking Web3 growth

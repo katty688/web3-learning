@@ -93,3 +93,6 @@ More updates soon.
 - Studying lending systems
 - Reviewing networks
 - Tracking Web3 growth
+
+# September
+- Tracking Web3 tools

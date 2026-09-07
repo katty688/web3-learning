@@ -96,3 +96,4 @@ More updates soon.
 
 # September
 - Tracking Web3 tools
+- Refining markdown

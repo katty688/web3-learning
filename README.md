@@ -98,3 +98,4 @@ More updates soon.
 - Tracking Web3 tools
 - Refining markdown
 - Updating summaries
+- Improving structure

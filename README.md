@@ -99,3 +99,4 @@ More updates soon.
 - Refining markdown
 - Updating summaries
 - Improving structure
+- Researching DAOs

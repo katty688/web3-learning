@@ -100,3 +100,4 @@ More updates soon.
 - Updating summaries
 - Improving structure
 - Researching DAOs
+- Learning indexing

@@ -101,3 +101,4 @@ More updates soon.
 - Improving structure
 - Researching DAOs
 - Learning indexing
+- Reviewing liquidity

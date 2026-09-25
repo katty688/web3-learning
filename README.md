@@ -102,3 +102,4 @@ More updates soon.
 - Researching DAOs
 - Learning indexing
 - Reviewing liquidity
+- Studying rollups again

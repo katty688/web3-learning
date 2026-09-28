@@ -103,3 +103,4 @@ More updates soon.
 - Learning indexing
 - Reviewing liquidity
 - Studying rollups again
+- Studying consensus

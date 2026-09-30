@@ -104,3 +104,4 @@ More updates soon.
 - Reviewing liquidity
 - Studying rollups again
 - Studying consensus
+-Exploring zk scaling

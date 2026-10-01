@@ -105,3 +105,6 @@ More updates soon.
 - Studying rollups again
 - Studying consensus
 -Exploring zk scaling
+
+# October
+- Understanding branches and merge concepts.

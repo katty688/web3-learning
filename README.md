@@ -104,7 +104,7 @@ More updates soon.
 - Reviewing liquidity
 - Studying rollups again
 - Studying consensus
--Exploring zk scaling
-
+- Exploring zk scaling
+- Testing small updates frequently.
 # October
 - Understanding branches and merge concepts.

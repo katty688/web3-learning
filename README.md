@@ -108,3 +108,4 @@ More updates soon.
 - Testing small updates frequently.
 # October
 - Understanding branches and merge concepts.
+- Organizing project structure properly.

@@ -105,7 +105,9 @@ More updates soon.
 - Studying rollups again
 - Studying consensus
 - Exploring zk scaling
-- Testing small updates frequently.
+
 # October
+- Testing small updates frequently.
 - Understanding branches and merge concepts.
 - Organizing project structure properly.
+- Structuring README more clearly.

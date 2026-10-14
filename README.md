@@ -111,3 +111,4 @@ More updates soon.
 - Understanding branches and merge concepts.
 - Organizing project structure properly.
 - Structuring README more clearly.
+- Documenting development goals.

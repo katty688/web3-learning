@@ -112,3 +112,4 @@ More updates soon.
 - Organizing project structure properly.
 - Structuring README more clearly.
 - Documenting development goals.
+- Exploring decentralized governance concepts.

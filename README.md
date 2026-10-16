@@ -113,3 +113,4 @@ More updates soon.
 - Structuring README more clearly.
 - Documenting development goals.
 - Exploring decentralized governance concepts.
+- Learning about RPC endpoints.

@@ -114,3 +114,4 @@ More updates soon.
 - Documenting development goals.
 - Exploring decentralized governance concepts.
 - Learning about RPC endpoints.
+- Studying open source contribution models.

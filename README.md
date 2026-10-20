@@ -115,3 +115,4 @@ More updates soon.
 - Exploring decentralized governance concepts.
 - Learning about RPC endpoints.
 - Studying open source contribution models.
+- Studying liquidity mechanisms.

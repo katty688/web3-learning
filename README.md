@@ -116,3 +116,4 @@ More updates soon.
 - Learning about RPC endpoints.
 - Studying open source contribution models.
 - Studying liquidity mechanisms.
+- Exploring consensus validation process.

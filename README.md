@@ -117,3 +117,4 @@ More updates soon.
 - Studying open source contribution models.
 - Studying liquidity mechanisms.
 - Exploring consensus validation process.
+- Exploring developer tooling options.

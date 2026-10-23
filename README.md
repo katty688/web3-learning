@@ -118,3 +118,4 @@ More updates soon.
 - Studying liquidity mechanisms.
 - Exploring consensus validation process.
 - Exploring developer tooling options.
+- Learning how smart contracts interact with frontends.

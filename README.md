@@ -119,3 +119,4 @@ More updates soon.
 - Exploring consensus validation process.
 - Exploring developer tooling options.
 - Learning how smart contracts interact with frontends.
+- Adding more structured development logs.

@@ -121,3 +121,4 @@ More updates soon.
 - Learning how smart contracts interact with frontends.
 - Adding more structured development logs.
 - Exploring zk rollups conceptually.
+- Researching decentralized identity systems.

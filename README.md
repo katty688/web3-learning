@@ -122,3 +122,4 @@ More updates soon.
 - Adding more structured development logs.
 - Exploring zk rollups conceptually.
 - Researching decentralized identity systems.
+- Reviewing smart contract deployment checklist.

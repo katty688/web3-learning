@@ -123,3 +123,4 @@ More updates soon.
 - Exploring zk rollups conceptually.
 - Researching decentralized identity systems.
 - Reviewing smart contract deployment checklist.
+- Exploring governance voting mechanisms.

@@ -124,3 +124,6 @@ More updates soon.
 - Researching decentralized identity systems.
 - Reviewing smart contract deployment checklist.
 - Exploring governance voting mechanisms.
+
+# November
+- Adding additional roadmap updates.

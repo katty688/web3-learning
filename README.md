@@ -127,3 +127,4 @@ More updates soon.
 
 # November
 - Adding additional roadmap updates.
+- Improving code readability awareness.

@@ -129,3 +129,4 @@ More updates soon.
 - Adding additional roadmap updates.
 - Improving code readability awareness.
 - Improving understanding of encryption basics.
+- Improving technical documentation habits.
